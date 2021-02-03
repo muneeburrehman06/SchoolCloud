@@ -1,0 +1,16 @@
+.bg-darkblue{
+    background: #336;
+    color:white;
+}
+.hr{
+    background: rgb(158, 158, 158);
+}
+.bg-warning{
+    color:white;
+}
+.bg-warning h2{
+    color:black;
+}
+.row>.col-12 p{
+    color:black;
+}

@@ -1,0 +1,19 @@
+.contact-font>a{
+    border: 0px solid grey;
+    border-radius: 20px;
+    font-size: 1rem;
+    margin-left:6px;
+    margin-top:2px;
+}
+.custom-btn>a{
+    border: 0px solid grey;
+    border-radius: 20px;
+    font-size: 1rem;
+}
+.text-justify>u{
+    text-decoration-color:yellow ;
+}
+.footer>p{
+    margin-left: 80px;
+    margin-right: 80px;
+}
